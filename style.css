@@ -2,6 +2,7 @@
 
 .header{
     background-color:#0B0B1C;
+    color: #E4E3B6;
 }
 
 .main-bio{
@@ -31,7 +32,7 @@
 .fa {
   padding: 20px;
   font-size: 40px;
-  width: 50px;
+  width: 52px;
   text-align: center;
   text-decoration: none;
   margin: 50px 10px;
