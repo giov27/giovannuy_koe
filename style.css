@@ -71,6 +71,10 @@
 
 }
 
+.child p{
+    font-size: 13pt;
+    font-weight: 450;
+}
 .story{
     margin: 50px 0 ;
 }
